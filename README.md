@@ -1,2 +1,2 @@
 # Learning-projects
-this is first git repository
+This is first Git Repository
